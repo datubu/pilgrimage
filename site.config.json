@@ -1,0 +1,6 @@
+{
+  "id": "seek",
+  "domain": "seek.datubu.com",
+  "contentRepository": "human-journeys",
+  "engineRepository": "journeys"
+}
